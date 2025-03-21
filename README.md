@@ -1,5 +1,11 @@
 # chatsystem
-First, install the necessary dependencies.In the project directory type:
+Dependencies:
+* socket.io
+* nodemon(DevDependency)
+
+First, install the necessary dependencies. 
+
+In the project directory type:
 
 ``` npm i ```
 
